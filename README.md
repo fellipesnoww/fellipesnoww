@@ -2,7 +2,7 @@
 
 ## Me chamo Fellipe, tenho 24 anos, sou desenvolvedor full-stack formado em Ciência da Computação.
 
-- 🔭 Atualmente trabalho na Interfocus Tecnologia, Marilía - SP, como desenvolvedor full-stack;
+- 🔭 Atualmente trabalho na GoK | Inovação digital, como desenvolvedor mobile [React Native]
 
 ## Estudando:
   
